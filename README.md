@@ -6,4 +6,4 @@ You thought Flappy Bird was cool? Check this out! (Made using Phaser.io).
 
 Use spacebar to jump.
 
-The code for the game lives in [**`main.js`**](https://github.com/maxshuty/Boxy-Box/blob/master/BoxyBox/scripts/main.js)
+The code for the game lives in [**`main.js`**](https://github.com/maxshuty/Boxy-Box/blob/master/BoxyBox/scripts/main.js).
